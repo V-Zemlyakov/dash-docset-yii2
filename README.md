@@ -1,5 +1,5 @@
-dash-docset-yii2
-================
+dash-docset-yii2-ru
+===================
 
 Script for create the docset Yii 2 for the Dash (http://kapeli.com/dash) OS X. Get data direct from the Yii github (dev-master). 
 Need about 180 Megs disk space within generating process.
