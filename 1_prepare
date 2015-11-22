@@ -12,8 +12,6 @@ echo "Downloading Yii2 guide"
 git clone https://github.com/yiisoft/yii2.git
 
 # usable for git
-ln -s ./yii2/docs/guide ./yii2-guide
-
 ln -s yii2/docs/guide-ru/ ./yii2-guide
 
 echo "Downloading Yii2-apidoc"
